@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=450&color=gradient&text=Mohammad%20Shuaib&fontSize=60&fontColor=fff&animation=scaleIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Mohammad%20Shuaib&fontSize=60&fontColor=fff&animation=scaleIn" />
 </p>
 
 <!-- Custom Initial Logo -->
